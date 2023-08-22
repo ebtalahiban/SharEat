@@ -1,2 +1,2 @@
 # SharEat
-A simple social media platform where people can interact the recipes they post online.
+A simple social media platform where people can interact through the recipes they post online.
